@@ -34,8 +34,3 @@ The Rating for the entire course will be updated as per the aggregated sum of ch
 ### Success
 ![ss5](https://user-images.githubusercontent.com/68660002/230711955-dc832fa3-5332-4b31-8d08-c1af8ae72183.png)
 
-### Running Tests to validate all endpoints
-![ss7](https://user-images.githubusercontent.com/68660002/230711959-553b0c6d-cc4c-4315-a2bf-a9b049b0c8a2.png)
-
-### Containerizing the Application 
-![ss9](https://user-images.githubusercontent.com/68660002/230712145-781800a3-165e-4a9a-9002-cbbd6b923946.png)
